@@ -22,9 +22,9 @@ We help developers build with Kotlin, Jetpack Compose, and AI through structured
 - [Projects by the community](https://github.com/AndroidEngineers/projects_by_community) — discover projects and submit your own through the contribution guide.
 - [Android interview preparation](https://github.com/AndroidEngineers/android-interview) — explore the GitHub collection and [practise questions with answers on our website](https://www.androidengineers.in/questions?utm_source=github&utm_medium=org_profile&utm_campaign=android_interview).
 
-## What we are planning
+## Cookbook in development
 
-An **Android + AI Cookbook** with runnable Kotlin and Compose recipes, compatibility notes, failure cases, and links to deeper academy lessons. It will cover cloud AI, on-device AI, ADK, tools, and production engineering as examples become ready.
+The [Android + AI Cookbook](https://github.com/AndroidEngineers/android-ai-cookbook) is now open for contributions. Its foundation includes eight topic tracks, six planned recipes, and authoring checks. **Runnable recipes are not published yet.** Follow the plans or use their linked academy lessons while examples are developed.
 
 ## Contribute something useful
 
