@@ -20,7 +20,7 @@ We help developers build with Kotlin, Jetpack Compose, and AI through structured
 - [Jetpack Compose masterclass](https://github.com/AndroidEngineers/jetpack-compose-masterclass) — course code and Compose examples.
 - [Android app challenge](https://github.com/AndroidEngineers/7-day-Android-App-Challenge) — community-built applications and past challenge submissions.
 - [Projects by the community](https://github.com/AndroidEngineers/projects_by_community) — discover projects and submit your own through the contribution guide.
-- [Android interview preparation](https://github.com/anandwana001/android-interview) — the original repository maintained under our founder's account.
+- [Android interview preparation](https://github.com/AndroidEngineers/android-interview) — explore the GitHub collection and [practise questions with answers on our website](https://www.androidengineers.in/questions?utm_source=github&utm_medium=org_profile&utm_campaign=android_interview).
 
 ## What we are planning
 
