@@ -24,7 +24,7 @@ We help developers build with Kotlin, Jetpack Compose, and AI through structured
 
 ## Build with the Android + AI Cookbook
 
-The [Android + AI Cookbook](https://github.com/AndroidEngineers/android-ai-cookbook) now has **six runnable recipes verified with deterministic fixtures**: streaming, Firebase setup, cancellation, structured output, retries, and ADK tool approval. [Run the Kotlin/Compose sample](https://github.com/AndroidEngineers/android-ai-cookbook/tree/main/samples/recipe-lab) or [download the fixture prerelease](https://github.com/AndroidEngineers/android-ai-cookbook/releases/tag/v0.1.0-fixtures). Live cloud inference and physical-device behavior remain unverified.
+Explore **24 Android + AI topics** in the [Android + AI Cookbook](https://github.com/AndroidEngineers/android-ai-cookbook), including Gemini Live, Gemma, ML Kit, on-device AI, and ADK. Each topic links to learning resources. Dedicated apps are planned for the individual topic folders; runnable apps are not yet included.
 
 ## Contribute something useful
 
